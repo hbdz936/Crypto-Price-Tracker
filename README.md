@@ -1,12 +1,43 @@
-# React + Vite
+# 💹 Crypto Price Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![Live Demo](https://img.shields.io/badge/Live-Demo-purple?style=for-the-badge)](https://hbdz936.github.io/Crypto-Price-Tracker/)
+[![Made with React](https://img.shields.io/badge/Made%20with-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)](https://reactjs.org/)
+[![Vite](https://img.shields.io/badge/Bundler-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)](https://vitejs.dev/)
+[![Status](https://img.shields.io/badge/Status-Deployed-success?style=for-the-badge)](https://hbdz936.github.io/Crypto-Price-Tracker/)
 
-Currently, two official plugins are available:
+A sleek and responsive **cryptocurrency tracker app** built using React and Vite that displays real-time market data from CoinGecko API. 🔥
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🌐 Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+👉 [View the Project Live](https://hbdz936.github.io/Crypto-Price-Tracker/)
+
+---
+
+## ✨ Features
+
+- 🔍 Search and filter cryptocurrencies
+- 📈 Live price, volume, and market cap
+- 🔄 Auto-refreshes data every 30 seconds
+- 📱 Responsive UI for all devices
+- 🌙 Dark theme with smooth UI
+
+---
+
+## 🖼 Preview
+
+![Crypto Price Tracker Preview](https://user-images.githubusercontent.com/your-screenshot-url.png) <!-- Replace with actual screenshot URL if needed -->
+
+---
+
+## ⚙️ Tech Stack
+
+- **React.js** (Functional Components & Hooks)
+- **Vite** for fast bundling and HMR
+- **CoinGecko API** for real-time crypto data
+- **Axios** for API calls
+- **React Icons** for iconography
+- **CSS Flexbox** for layout
+
+---
